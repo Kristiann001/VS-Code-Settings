@@ -2,7 +2,7 @@
   "workbench.colorTheme": "One Dark Pro Night Flat",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
-  "editor.lineHeight": 1.6,
+  "editor.wordWrap": "on",
   "window.commandCenter": false,
   "workbench.editor.showTabs": "single",
   "workbench.statusBar.visible": false,
