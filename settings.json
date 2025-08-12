@@ -80,9 +80,12 @@
   "editor.overviewRulerBorder": false,
   "editor.hideCursorInOverviewRuler": true,
   "editor.quickSuggestions": {
-    "other": "off"
+    "other": "on",
+    "comments": "off",
+    "strings": "off"
   },
-  "editor.suggestOnTriggerCharacters": false,
+  "editor.suggestOnTriggerCharacters": true,
+
   "editor.tabCompletion": "on",
   "editor.snippetSuggestions": "top",
   "emmet.triggerExpansionOnTab": true,
@@ -101,5 +104,6 @@
   "terminal.integrated.fontWeight": "700",
   "terminal.integrated.lineHeight": 1.3,
   "chat.commandCenter.enabled": false,
-  "workbench.layoutControl.enabled": false
+  "workbench.layoutControl.enabled": false,
+  "workbench.secondarySideBar.defaultVisibility": "hidden"
 }
