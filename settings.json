@@ -1,6 +1,6 @@
 {
   "workbench.colorTheme": "One Dark Pro Night Flat",
-  "editor.fontFamily": "Dank Mono",
+  "editor.fontFamily": "'Dank Mono', 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace",
   "editor.wordWrap": "on",
   "glassit.alpha": 248,
   "workbench.activityBar.location": "left",
@@ -38,12 +38,11 @@
   "notebook.markup.fontFamily": "Dank Mono",
   "notebook.output.fontFamily": "Dank Mono",
   "chat.editor.fontFamily": "Dank Mono",
-  "editor.fontSize": 14,
+  "editor.fontSize": 15,
   "editor.fontLigatures": true,
-  "editor.fontWeight": "720",
+  "editor.fontWeight": "600",
   "editor.minimap.enabled": false,
   "editor.stickyScroll.enabled": false,
-  "security.workspace.trust.untrustedFiles": "open",
   "settingsSync.ignoredExtensions": ["moalamri.inline-fold"],
   "editor.linkedEditing": true,
   "window.commandCenter": false,
@@ -71,5 +70,13 @@
   "editor.scrollbar.horizontal": "visible",
   "editor.scrollbar.vertical": "visible",
   "window.menuBarVisibility": "hidden",
-  "explorer.confirmDelete": false
+  "explorer.confirmDelete": false,
+  "workbench.statusBar.visible": false,
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#9f00a6",
+    "statusBar.noFolderBackground": "#8a008f",
+    "statusBar.debuggingBackground": "#8a008f",
+    "statusBar.foreground": "#ffffff",
+    "statusBar.debuggingForeground": "#ffffff"
+  }
 }
